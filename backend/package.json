@@ -1,0 +1,12 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend server for calculator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node calculator.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
