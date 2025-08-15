@@ -1,0 +1,11 @@
+{
+  "name": "pj-prisma-lab",
+  "version": "1.0.0",
+  "description": "Simple Hello World webpage with calculator",
+  "scripts": {
+    "start": "npm --prefix backend start",
+    "test": "npm --prefix backend test"
+  },
+  "author": "",
+  "license": "ISC"
+}
